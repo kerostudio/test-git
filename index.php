@@ -1,3 +1,11 @@
 <?php
 
-echo Test; ?>
+echo Test;
+
+
+foreach ($variable as $key => $value)
+{
+	# code...
+}
+
+?>
